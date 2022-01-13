@@ -1,2 +1,2 @@
 # uups-upgradable-contract
-An example of uups upgradable solidity contracts using openzeppelin contracts
+An example of uups upgradeable solidity contracts using openzeppelin contracts
