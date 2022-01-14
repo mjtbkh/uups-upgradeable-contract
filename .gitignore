@@ -1,3 +1,7 @@
+build/
+.openzeppelin/
+.gitignore.swp
+
 # Logs
 logs
 *.log

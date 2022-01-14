@@ -1,0 +1,30 @@
+{
+  "name": "uups-upgradeable-contract",
+  "version": "1.0.0",
+  "description": "An example of uups upgradeable solidity contracts using openzeppelin contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjtbkh/uups-upgradeable-contract.git"
+  },
+  "keywords": [
+    "uups",
+    "truffle",
+    "solidity",
+    "smart-contract",
+    "openzeppelin"
+  ],
+  "author": "Mojtaba Khodami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjtbkh/uups-upgradeable-contract/issues"
+  },
+  "homepage": "https://github.com/mjtbkh/uups-upgradeable-contract#readme",
+  "dependencies": {
+    "@openzeppelin/contracts-upgradeable": "^4.4.2",
+    "@openzeppelin/truffle-upgrades": "^1.12.0"
+  }
+}
