@@ -25,7 +25,6 @@
   "homepage": "https://github.com/mjtbkh/uups-upgradeable-contract#readme",
   "dependencies": {
     "@openzeppelin/contracts-upgradeable": "^4.4.2",
-    "@openzeppelin/truffle-upgrades": "^1.12.0",
-    "node": "^17.3.1"
+    "@openzeppelin/truffle-upgrades": "^1.12.0"
   }
 }
