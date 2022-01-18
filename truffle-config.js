@@ -1,3 +1,5 @@
+const path = require("path");
+
 module.exports = {
   /**
    * Networks define how you connect to your ethereum client and let you set the
@@ -8,7 +10,7 @@ module.exports = {
    *
    * $ truffle test --network <network-name>
    */
-
+  contracts_build_directory: path.join(__dirname, "build/contracts"),
   networks: {
     development: {
       host: "127.0.0.1",     // Localhost (default: none)
